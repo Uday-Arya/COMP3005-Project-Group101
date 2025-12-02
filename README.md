@@ -10,7 +10,7 @@
  
  Optional ORM: Java, Hibernate, Springboot
  
- Video Link: https://drive.google.com/drive/folders/1hcF698nHK747FXWOzdLdFLUHF0jAWtda?usp=drive_link
+ Video Link: https://drive.google.com/drive/folders/1hcF698nHK747FXWOzdLdFLUHF0jAWtda?usp=sharing
 
 
 This project implements a database-driven Health and Fitness Club Management System that supports 3 user roles:
