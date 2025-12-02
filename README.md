@@ -1,11 +1,16 @@
- Health & Fitness Club Management System
+# Health & Fitness Club Management System
 
-COMP 3005 – Final Project (Fall 2025)
-Group Size: 3
-Database: PostgreSQL
-Interface: GUI
-Optional ORM: Java, Hibernate, Springboot
-Video Link: 
+ COMP 3005 – Final Project (Fall 2025)
+ 
+ Group Size: 3
+ 
+ Database: PostgreSQL
+ 
+ Interface: GUI
+ 
+ Optional ORM: Java, Hibernate, Springboot
+ 
+ Video Link: 
 
 
 This project implements a database-driven Health and Fitness Club Management System that supports 3 user roles:
